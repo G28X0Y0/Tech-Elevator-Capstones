@@ -1,0 +1,248 @@
+
+.logo {
+	width: 40%;
+}
+
+nav {
+	
+}
+
+li a {
+	display: block;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-family: helvetica;
+	font-size: 24px;
+	padding: 16px 26px 16px 16px;
+	text-align: center;
+}
+
+li  {
+	float: left;
+}
+
+.footer {
+	float: center;
+	font-family: helvetica;
+	font-size: 24px;
+	padding: 16px 26px 16px 16px;
+	color: #FFFFFF;
+}
+
+li a:hover {
+	text-decoration: underline;
+	background-color: #2c7a34;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #399b44;
+  overflow: hidden;
+}  
+
+.main-content {
+	display: flex;
+	flex-direction: column;
+	margin: 20px;
+}
+
+.park {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.parkIMG {
+	width: 100%;
+}
+
+.parkDESC {
+	margin-left: 30px;
+}
+
+h1 {
+	font-family: helvetica;
+}
+
+h3 {
+	font-family: helvetica;
+}
+
+.regular-text {
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+.bigParkIMG {
+	display: block;
+	width: 95%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.weather {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+	justify-content: space-between;
+	
+}
+
+.weatherday {
+	text-align: center;
+	width: 340px;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+	font-family: helvetica;
+}
+
+.results {
+	display: flex;
+	flex-direction: column;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 60%;
+}
+
+.resultsLabel {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	font-weight: bold;
+	font-family: helvetica;
+}
+
+.nameLabel {
+	width: 50%;
+	font-family: helvetica;
+	font-size: 24px;
+	padding: 10px;
+}
+
+.voteLabel {
+	width: 50%;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 24px;
+	padding: 10px;
+}
+
+.resultsData {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	font-family: helvetica;
+	padding: 10px;
+}
+
+.resultsData:nth-child(odd) {
+	background-color: WhiteSmoke;
+}
+
+.resultsName {
+	width: 50%;
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+
+.resultsVotes{
+	width: 50%;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+.parkName {
+	display: block;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: helvetica;
+	text-align: center;
+}
+
+.parkDetail {
+	display: flex;
+	flex-direction: row;
+	width: 95%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom: 1px solid black;
+}
+
+.parkData {
+	width: 50%;
+	
+}
+.parkDescription {
+	width: 50%;
+}
+
+em {
+	font-size: 24px;
+	font-family: helvetica;
+}
+
+.survey {
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #EAFEEA;
+	height: 65%;
+	
+}
+
+.surveyRow {
+	display: flex;
+	flex-direction: row;
+	padding: 30px;
+	
+}
+
+.surveyQuestion {
+	width: 45%;
+}
+
+.surveyAnswer {
+	width: 55%;
+}
+
+#radio {
+	display: block;
+	font-family: helvetica;
+	font-size: 16px;
+}
+
+.question {
+	font-family: helvetica;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#submit {
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 20px;
+	background-color: WhiteSmoke;	
+}
+
+.surveyHeadline {
+	text-align: center;
+}
+ 
