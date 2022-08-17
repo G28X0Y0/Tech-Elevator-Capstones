@@ -7,12 +7,11 @@ Service can use to book campsite reservations.
 
 1. As a user of the system, I need the ability to view a list of the available parks in the system, sorted
 alphabetically by name.
-  a. A park includes an id, name, location, established date, area, annual visitor count, and description.
+    a. A park includes an id, name, location, established date, area, annual visitor count, and description.
       
 2. As a user of the system, I need the ability to select a park that my customer is visiting and see a list of
 all campgrounds for that available park.
-
-  a. A campground includes an id, name, open month, closing month, and a daily fee.
+    a. A campground includes an id, name, open month, closing month, and a daily fee.
 
 3. As a user of the system, I need the ability to select a campground and search for date availability so
 that I can make a reservation.
