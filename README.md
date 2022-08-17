@@ -3,8 +3,8 @@ These are my projects I was assigned during my time at Tech Elevator.
 There are pdfs in each one explaining the scope for them.
 
 ## Building and Running
-- All of my projects were built using ### IntelliJ
-- Depencies and building were with ### Maven
+- All of my projects were built using ***IntelliJ***
+- Depencies and building were with ***Maven***
 - For server based applications (like the weather app), do ```npm start``` in the server directory.
 
 - The projects are ran on ```localhost:8000```
