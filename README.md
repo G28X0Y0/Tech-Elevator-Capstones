@@ -7,7 +7,7 @@ There are pdfs in each one explaining the scope for them.
 - Depencies and building were with ***Maven***
 - For server based applications (like the weather app), do ```npm start``` in the server directory.
 
-- The projects are ran on ```localhost:8000```
+- The projects are ran on ```localhost``` See individual web projects for specific ports.
 
 ## Goals
 
